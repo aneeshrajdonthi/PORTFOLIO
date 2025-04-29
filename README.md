@@ -18,23 +18,14 @@ This is my personal portfolio website showcasing my skills, projects, certificat
 - **Deployment:** (Specify your hosting platform, e.g., GitHub Pages, Netlify, or Vercel)
 
 ## Deployment
-The website is deployed at: **[Your Website Link]**
+The website is deployed at: **[[Your Website Link]](https://aneeshraj10portfolio.vercel.app/)**
 
 
-## How to Update
-1. Make changes to the files (`index.html`, `style.css`, `script.js`, etc.).
-2. Commit and push changes:
-   ```sh
-   git add .
-   git commit -m "Updated portfolio"
-   git push origin main
-   ```
-3. Your deployed website will update automatically (if using GitHub Pages, Netlify, or Vercel).
+
 
 ## Contact
 - **Email:** aneeshrajdonthi1010@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/aneeshrajdonthi)
 - **GitHub:** [GitHub Profile](https://github.com/aneeshrajdonthi)
 
----
-_This portfolio is continuously updated to reflect new projects and achievements!_ 🚀
+
